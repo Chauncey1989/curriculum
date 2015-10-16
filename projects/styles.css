@@ -1,0 +1,30 @@
+
+head {
+  text-align: center;
+}
+
+
+body {
+  border-radius: 30px;
+  margin: 0 auto;
+  max-width: 800px;
+  background-image:url('https://farm6.staticflickr.com/5561/14796146717_a7b80b2968_o.jpg')
+}
+
+
+h1 {
+  font-style: italic;
+  font-style: underline;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+p {
+  color: white;
+
+}
+h3 {
+  color: white
+}
